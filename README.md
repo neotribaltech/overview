@@ -16,25 +16,23 @@ Links to repos, ranked via a distributed trust graph
 ###Swarmbot
 
 Community management tool via "Distributed Collaborative Organizations"
+
 https://github.com/citizencode/swarmbot
 
 ###Trust Exchange
 
 A distributed reputational system for the Trust Web
+
 https://github.com/citizencode/trust-exchange
 
 
 
 #Other projects
 
-###Self Organization Constitution*
+###Self Organization Constitution
 
 https://github.com/citizencode/self-organization-constitution
 
 ###Distributed Governance Whitepaper
 
 https://github.com/fractastical/distributed-governance
-
-
-
-#Organizations
