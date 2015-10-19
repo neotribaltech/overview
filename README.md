@@ -21,6 +21,6 @@ https://github.com/citizencode/swarmbot
 
 
 
-[Imgur](http://i.imgur.com/N9O8ufT.png)
+![neotribes](http://i.imgur.com/N9O8ufT.png)
 
 http://www.neotribes.co
