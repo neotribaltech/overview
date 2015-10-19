@@ -15,13 +15,13 @@ Links to repos, ranked via a distributed trust graph
 
 ###Swarmbot
 
-Community management tool via "Distributed Collaborative Organizations"
+Community management tool via "Distributed Collaborative Organizations." Integrates with Slack and other communication tools. Based on blockchain technology.
 
 https://github.com/citizencode/swarmbot
 
 ###Trust Exchange
 
-A distributed reputational system for the Trust Web
+A distributed reputational system for the Trust Web. Based on graph databases (neo4j) and IPFS.
 
 https://github.com/citizencode/trust-exchange
 
